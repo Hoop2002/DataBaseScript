@@ -1,0 +1,46 @@
+{
+  "Games": [
+    {
+      "name": "The Witcher",
+      "yearofrelease": "2007",
+      "genre": "Action/Adventure",
+      "developerstudio": "CD Projekt RED"
+    },
+    {
+      "name": "Deus Ex",
+      "yearofrelease": "2000",
+      "genre": "FPS",
+      "developerstudio": "Ion Storm"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "yearofrelease": "2011",
+      "genre": "Action/RPG",
+      "developerstudio": "Bethesda Game Studios"
+    },
+    {
+      "name": "The Elder Scrolls: Arena",
+      "yearofrelease": "1994",
+      "genre": "Action/RPG",
+      "developerstudio": "Bethesda Game Studios"
+    },
+    {
+      "name": "The Elder Scrolls II: Daggerfall",
+      "yearofrelease": "1996",
+      "genre": "Action/RPG",
+      "developerstudio": "Bethesda Game Studios"
+    },
+    {
+      "name": "Outlast",
+      "yearofrelease": "2013",
+      "genre": "Survival/Horror",
+      "developerstudio": "Red Barrels"
+    },
+    {
+      "name": "Resident Evil 7",
+      "yearofrelease": "2017",
+      "genre": "Survival/Horror",
+      "developerstudio": "Capcom"
+    }
+  ]
+}
