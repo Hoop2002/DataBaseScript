@@ -27,18 +27,17 @@ namespace DataBaseScript
 
                             var game = new GameInfoSqlSchema 
                             {
-                                                               Name = name, 
-                                                               YearOfRelease = yearofrealease, 
-                                                               Genre = genre,
-                                                               DeveloperStudio = developerstudio
+                              Name = name, 
+                              YearOfRelease = yearofrealease, 
+                              Genre = genre,
+                              DeveloperStudio = developerstudio
                             };
                             db.Games.Add(game);
-                            
                             db.SaveChanges();
-                            
+                            Console.WriteLine("Data uploaded");
                         }
                     }
-                    Console.WriteLine("Data uploaded");
+                   
                     break;
                 case "n":
                     Console.WriteLine("The data was not uploaded");
